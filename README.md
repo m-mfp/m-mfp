@@ -24,4 +24,5 @@
   <li><a href="https://github.com/m-mfp">GitHub</a> - Check out my projects!</li>
   <li><a href="https://www.linkedin.com/in/marcelamsp/">LinkedIn</a> - Connect with me professionally!</li>
   <li><a href="https://www.kaggle.com/marcelamartin">Kaggle</a> - Explore my data science work!</li>
+  <li><a href="https://m-mfp.github.io/myPortfolio/">Github.io</a> - Visit my github page!</li>
 </ul>
