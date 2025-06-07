@@ -6,7 +6,7 @@
 <h2>👩🏼‍💻 What I'm doing now...</h2>
 <ul>
   <li>Studying <a href="https://www.freecodecamp.org/fccb5a33f51-085a-4953-a30f-0335c089e037"><b>Web Development</b></a> and related programming languages...</li>
-  <li>Learning <a href="https://www.duolingo.com/profile/m-mfp"><b>Dutch</b></a>...</li>
+  <li>Learning <b>Dutch</b>...</li>
   <li>Developing a portfolio showcasing my projects in data science and web development...</li>
 </ul>
 
