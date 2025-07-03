@@ -5,18 +5,20 @@
 
 <h2>👩🏼‍💻 What I'm doing now...</h2>
 <ul>
-  <li>Studying <a href="https://www.freecodecamp.org/fccb5a33f51-085a-4953-a30f-0335c089e037"><b>Web Development</b></a> and related programming languages...</li>
+  <li>Studying <a href="https://www.freecodecamp.org/fccb5a33f51-085a-4953-a30f-0335c089e037"><b>Back-End Development</b></a> and related programming languages...</li>
   <li>Learning <b>Dutch</b>...</li>
-  <li>Developing a portfolio showcasing my projects in data science and web development...</li>
+  <li>Developing new projects showcasing my previous and new acquired knowledge...</li>
 </ul>
 
 <h2>📖 Languages I've studied...</h2>
 <ul>
   <li>Python</li>
+  <li>Golang</li>
   <li>HTML | CSS | JavaScript</li>
   <li>SQL</li>
-  <li>A bit of Golang & C++</li>
-  <li>Portuguese | English | Italian | some German</li>
+  <li>Databases</li>
+  <li>A bit of C++</li>
+  <li>Portuguese | English | Italian | some Dutch and German</li>
 </ul>
 
 <h2>🤔 Social Media you say... what's that?</h2>
