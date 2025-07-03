@@ -5,7 +5,7 @@
 
 <h2>👩🏼‍💻 What I'm doing now...</h2>
 <ul>
-  <li>Studying <a href="https://www.freecodecamp.org/fccb5a33f51-085a-4953-a30f-0335c089e037"><b>Back-End Development</b></a> and related programming languages...</li>
+  <li>Studying <a href=""><b>Back-End Development</b></a> and related programming languages...</li>
   <li>Learning <b>Dutch</b>...</li>
   <li>Developing new projects showcasing my previous and new acquired knowledge...</li>
 </ul>
