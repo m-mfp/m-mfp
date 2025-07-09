@@ -6,7 +6,7 @@
 <h2>👩🏼‍💻 What I'm doing now...</h2>
 <ul>
   <li>Studying <a href=""><b>Back-End Development</b></a> and related programming languages...</li>
-  <li>Learning <b>Dutch</b>...</li>
+  <li><b>Nederlands</b> leren...</li>
   <li>Developing new projects showcasing my previous and new acquired knowledge...</li>
 </ul>
 
